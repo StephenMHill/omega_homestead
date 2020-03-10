@@ -35,7 +35,7 @@ git checkout release
 ``` ssh-keygen -t rsa -C "you@homestead.com"```
 7. Clone the following repo into the bookreso directory
 ``` 
-git clone REPO-LINK omega_homestead-app
+git clone https://github.com/StephenMHill/omega_homestead.git omega_homestead-app
 ```
 8. Copy the Homestead.yaml file from the app repo into the homestead folder
 ```
