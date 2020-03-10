@@ -10,18 +10,18 @@ keys:
 
 folders:
     -
-        map: '~/Workspace/NAME/NAME-app'
+        map: '~/Workspace/omega_homestead/omega_homestead-app'
         to: /home/vagrant/app
 
 sites:
     -
-        map: .test
+        map: omega_homestead.test
         to: /home/vagrant/app/public
 
 databases:
-    - NAME
+    - omega_homestead
 
 name: NAME
 
-hostname: NAME
+hostname: omega_homestead
 
