@@ -21,7 +21,7 @@ sites:
 databases:
     - omega_homestead
 
-name: NAME
+name: omega_homestead
 
 hostname: omega_homestead
 
